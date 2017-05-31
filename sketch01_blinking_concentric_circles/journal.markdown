@@ -4,8 +4,7 @@
 I did not expect such a cool pattern! The blinking circles are futuristic, they remind me of Tron haha.
 Hmmm I try to ticker around the parameters, and background(55) & noFill() & stroke([random colors]) work best visually.
 
-_Programming Issue 1_
-
+1. Programming Issue 1
 Why the pattern stop changing each frame once I delete the "n" from the parameters?
 [n -> generation for fractals]
 
